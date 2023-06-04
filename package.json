@@ -33,6 +33,7 @@
     "prettier": "^2.8.8"
   },
   "resolutions": {
-    "@toruslabs/openlogin-jrpc": "^2.0.0"
+    "@toruslabs/openlogin-jrpc": "^2.0.0",
+    "execa": "^6.0.0"
   }
 }
