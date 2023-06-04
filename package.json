@@ -31,5 +31,8 @@
   },
   "devDependencies": {
     "prettier": "^2.8.8"
+  },
+  "resolutions": {
+    "@toruslabs/openlogin-jrpc": "^2.0.0"
   }
 }
